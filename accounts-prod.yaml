@@ -1,0 +1,16 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to eazyBank account related production APIs"
+  contactDetails:
+    name: "CentOs-Devops Head"
+    email: "cent@eazybankprod.com"
+  onCallSupport:
+    -(444) 222-123
+    -(444) 222-321
+
+
+
+
+

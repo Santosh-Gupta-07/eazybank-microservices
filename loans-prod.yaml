@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+loans:
+  message: "Welcome to loans related production APIs section"
+  contactDetails:
+    name: "centos-Devops Head"
+    email: "centprod@eazybank.com"
+  onSupportCall:
+    - "(111) 666 123"
+    - "(111) 666 321"

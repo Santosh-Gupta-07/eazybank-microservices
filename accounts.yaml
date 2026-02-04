@@ -1,0 +1,16 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to eazyBank account related local APIs"
+  contactDetails:
+    name: "CentOs-developer"
+    email: "cent@eazybank.com"
+  onCallSupport:
+    -(444) 444-123
+    -(444) 444-321
+
+
+
+
+

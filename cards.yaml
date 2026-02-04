@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to cards in eazyBank local APIs"
+  contactDetails:
+    name: "Centos- Developer"
+    email: "cent@eazybank.com"
+  onCallSupport:
+    - "(222) 666 123"
+    - "(222) 666 321"

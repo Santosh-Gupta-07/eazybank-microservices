@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+loans:
+  message: "Welcome to loans related local APIs section"
+  contactDetails:
+    name: "centos-Developer"
+    email: "centdev@eazybank.com"
+  onSupportCall:
+    - "(111) 444 123"
+    - "(111) 444 321"

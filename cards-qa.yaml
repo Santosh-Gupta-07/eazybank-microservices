@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Cards qa APIS section"
+  contactDetails:
+    name: "centos-qa Head"
+    email: "centosqa@eazybank.com"
+  onCallSupport:
+    - "(222) 777 123"
+    - "(222) 777 321"

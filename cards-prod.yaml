@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to  cards production APIs"
+  contactDetails:
+    name: "CentOs-prod Head"
+    email: "centprod@eazybank.com"
+  onCallSupport:
+    -(222) 111 123
+    -(222) 111 321
