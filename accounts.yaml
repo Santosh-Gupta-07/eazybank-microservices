@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to eazyBank account related local APIs"
   contactDetails:
     name: "CentOs-developer"
-    email: "cent@eazybank.com"
+    email: "{cipher}cd1aec54b0ccee956ebe17709979dd5b2d70d1697b223e8e500d27719d8db7245388aa8dc17e1317403a8975bd90805d"
   onCallSupport:
     -(444) 444-123
     -(444) 444-321
