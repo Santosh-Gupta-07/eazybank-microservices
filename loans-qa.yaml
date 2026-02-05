@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to loans related qa APIs section"
   contactDetails:
-    name: "centos-QA Head"
+    name: "centOs-QA Head"
     email: "centqa@eazybank.com"
   onSupportCall:
     - "(111) 777 123"
