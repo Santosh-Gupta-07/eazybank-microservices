@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to cards in eazyBank local APIs"
+  message: "Welcome to cards in eazyBank local APIs section"
   contactDetails:
     name: "Centos- Developer"
     email: "cent@eazybank.com"
