@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to eazyBank account related local APIs section"
+  message: "Welcome to eazyBank account related local APIs section updated"
   contactDetails:
     name: "CentOs-developer"
     email: "{cipher}cd1aec54b0ccee956ebe17709979dd5b2d70d1697b223e8e500d27719d8db7245388aa8dc17e1317403a8975bd90805d"
