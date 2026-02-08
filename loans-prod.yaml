@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 loans:
-  message: "Welcome to loans related production APIs section updated"
+  message: "Welcome to loans related production APIs section"
   contactDetails:
     name: "centOs-Devops Head"
     email: "centprod@eazybank.com"
