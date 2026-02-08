@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to eazyBank account related QA APIs"
+  message: "Welcome to eazyBank account related QA APIs updated"
   contactDetails:
     name: "CentOs-QA Lead"
     email: "cent@eazybankqa.com"
