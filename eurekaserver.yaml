@@ -1,0 +1,11 @@
+server:
+  port: 8070
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    fetchRegistry: false     I # don't want eureka server to fetch, registry of the microservice. Because eureka never going to call microservices
+    registerWithEureka: false   # I don't want eurekaserver register itself, this property is true by default to connect with other microservices
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
